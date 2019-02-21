@@ -8,15 +8,15 @@ sidebar:
 
     # Profile information
     name: Denis Vasconcelos
-    tagline: Full Stack Developer
+    tagline: Data Solutions Architect
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: contact@denisvasconcelos.com
+    phone: +55 (81) 9 7116-1725
+    website: denisvasconcelos.com #do not add http://
+    linkedin: denisvasconcelos
+    github: 
     gitlab:
     bitbucket:
     twitter: '@webjeda'
@@ -45,13 +45,19 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      I have over 20 years experience in Information Management and Information Integration solutions, where I led solutions involving data migration, data modeling, and database administration for a variety of industry (Travel & Transportation, Energy & Utilities, Telecommunications, Banking, among others) and clients in both private and government sectors.
 
-      Second paragraph if required.
+Currently, focus on Business Analytics and Optimization, Big Data and Analytics Initiatives 
+
+Specialties: Data management, Data integration, Business analytics, Big data, Analytics
+
+I not only authored two developerWorks article, and two IOD presentations but I also co-authored three Redbooks, and contributed to two other Redbooks, and acted as IBM Press technical reviewer for three books on DB2.
+
+As an Executive IT Specialist, I serve(d) on a variety of advisory boards:
+- IT Specialist Certification Board (since 2009)
+- GBS' PDF Panel (2009-2010)
+
+Member of the IBM Brazil Technology Leadership Council (IBM Academy of Technology Affiliate)
 
 education:
     - degree: MSc in Computer Science

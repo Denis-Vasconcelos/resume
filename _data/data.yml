@@ -16,13 +16,6 @@ sidebar:
     phone: +55 (81) 9 7116-1725
     website: denisvasconcelos.com #do not add http://
     linkedin: denisvasconcelos
-    github: 
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: Portuguese
@@ -45,19 +38,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I have over 20 years experience in Information Management and Information Integration solutions, where I led solutions involving data migration, data modeling, and database administration for a variety of industry (Travel & Transportation, Energy & Utilities, Telecommunications, Banking, among others) and clients in both private and government sectors.
-
-Currently, focus on Business Analytics and Optimization, Big Data and Analytics Initiatives 
-
-Specialties: Data management, Data integration, Business analytics, Big data, Analytics
-
-I not only authored two developerWorks article, and two IOD presentations but I also co-authored three Redbooks, and contributed to two other Redbooks, and acted as IBM Press technical reviewer for three books on DB2.
-
-As an Executive IT Specialist, I serve(d) on a variety of advisory boards:
-- IT Specialist Certification Board (since 2009)
-- GBS' PDF Panel (2009-2010)
-
-Member of the IBM Brazil Technology Leadership Council (IBM Academy of Technology Affiliate)
+      I have over 20 years
+      
 
 education:
     - degree: MSc in Computer Science
